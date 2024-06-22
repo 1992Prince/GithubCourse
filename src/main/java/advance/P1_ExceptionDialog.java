@@ -16,6 +16,7 @@ public class P1_ExceptionDialog {
             BrowserContext brcx1 = browser.newContext();
             Page page = brcx1.newPage();
             page.navigate("https://letcode.in/edit");
+            System.out.println("Opening URL");
 
             try {
                 // Attempt to locate and click the button
