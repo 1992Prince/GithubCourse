@@ -6,5 +6,6 @@ public class P2_Delete {
 
         System.out.println("I am the richest person in the world");
         System.out.println("I am the beyond richest");
+        int k = 145;
     }
 }
